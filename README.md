@@ -14,6 +14,7 @@ Full Stack Developer | Crafting fast, scalable, and user-focused web application
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sohaib-Arshid&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+https://github.com/users/Sohaib-Arshid/achievements/yolo
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
