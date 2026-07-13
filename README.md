@@ -1,38 +1,47 @@
-<h1 align="center">Hi, I'm Sohaib Arshid</h1>
+<h1 align="center">Hi, I'm Sohaib Arshid 👋</h1>
 
 <p align="center">
-Full Stack Developer building backend systems and web applications with the JavaScript ecosystem.
+<a href="https://readme-typing-svg.herokuapp.com">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;BS+AI+Student+%40+University+of+Haripur;Building+with+the+MERN+Stack;Technical+Lead+%40+AWS+Cloud+Club" alt="Typing SVG" />
+</a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sohaib-arshid-008172418"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sohaibali1277@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/sohaib-arshid"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sohaib-arshid-008172418"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Sohaib-Arshid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sohaibali1277@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### About
+### 💼 About Me
 
-I'm an AI undergraduate at the University of Haripur who spends most of his time on the backend — designing APIs, structuring databases, and figuring out how systems should talk to each other. I build with Node.js and Express day to day, and I care more about a clean, predictable codebase than a clever one.
+I'm a Full Stack Developer and BS Artificial Intelligence student at the University of Haripur, working mainly on the backend with Node.js, Express, and MongoDB. I focus on building clean, scalable APIs and enjoy the process of turning a rough idea into a working, well-structured system.
 
-Right now I'm working as a Full Stack Developer intern at Giga Developer and serving as Technical Lead for AWS Cloud Club at my university, where I help other students get comfortable with cloud fundamentals and real-world deployment.
-
-Most of what I ship starts as a problem worth solving rather than a technology worth trying — the stack comes second.
+Currently interning as a Full Stack Developer at **Giga Developer** and serving as **Technical Lead at AWS Cloud Club, University of Haripur**, where I help other students get hands-on with cloud fundamentals.
 
 ---
 
-### What I Build
+### 🎯 Current Focus
 
-- **SkillHub** — a full-stack MERN platform for peer skill-sharing, with JWT-based auth, a connections and endorsement system, and real-time messaging.
-- **Streamify** — a Node.js/Express/MongoDB backend, containerized with Docker and deployed on Railway.
-- **AI Prescription Reader** — a Node.js service that combines OpenAI's vision models with Cloudinary to digitize handwritten prescriptions.
-- **Employee Management System** — a role-based internal tool for handling employee records and permissions.
-- **VisionBoard** — a lightweight web app for planning and tracking personal goals.
+- Deepening my backend expertise with Node.js, Express, and MongoDB
+- Leading cloud-computing sessions and workshops for AWS Cloud Club
+- Studying core AI/ML foundations alongside applied software development
+- Building a consistent, professional open-source presence
 
 ---
 
-### Tech Stack
+### 🏆 Highlights
+
+- 🎤 **Technical Lead, AWS Cloud Club (University of Haripur)** — leading student workshops on cloud computing fundamentals
+- 💼 **Full Stack Developer Intern, Giga Developer** — contributing to production-grade MERN applications
+- 🏗️ Consistently apply clean architecture patterns (MVC, standardized API responses) across every backend I build
+- 📚 Maintain structured technical documentation and reports across multiple computer science domains
+- 🌱 Actively growing as a full stack engineer while completing a BS in Artificial Intelligence
+
+---
+
+### 🛠️ Tech Stack
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -70,17 +79,37 @@ Most of what I ship starts as a problem worth solving rather than a technology w
 
 ---
 
-### GitHub Stats
+### 🎓 Education
+
+**BS Artificial Intelligence** — University of Haripur, Department of Information Technology *(6th Semester)*
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Sohaib-Arshid&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sohaib-Arshid&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohaib-Arshid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sohaib-Arshid&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib-Arshid&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### Let's Connect
+### 🤝 Let's Connect
 
-I'm always open to discussing backend architecture, internship opportunities, or collaborating on open-source projects.
+Open to internships, collaborations, and conversations around backend development and cloud computing.
+
+**Can talk about:** Node.js & Express architecture, MongoDB schema design, JWT authentication, AWS fundamentals
 
 [LinkedIn](https://linkedin.com/in/sohaib-arshid-008172418) · [Email](mailto:sohaibali1277@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sohaib-Arshid&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+<p align="center"><i>Last updated: July 2026</i></p>
