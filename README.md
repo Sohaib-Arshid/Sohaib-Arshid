@@ -1,115 +1,114 @@
-<h1 align="center">Hi, I'm Sohaib Arshid 👋</h1>
-
-<p align="center">
-<a href="https://readme-typing-svg.herokuapp.com">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;BS+AI+Student+%40+University+of+Haripur;Building+with+the+MERN+Stack;Technical+Lead+%40+AWS+Cloud+Club" alt="Typing SVG" />
-</a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sohaib-arshid-008172418"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sohaib-Arshid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:sohaibali1277@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<h1 align="center">Hi, I'm Sohaib Arshid</h1> <p align="center">
+<strong>Full-Stack Developer</strong> · <strong>Backend Specialist</strong> · BS Artificial Intelligence Student
+</p> <p align="center">Building complete web applications from responsive interfaces to scalable APIs, databases, and cloud deployments.</p> <p align="center">
+  <a href="https://github.com/Sohaib-Arshid">GitHub</a> ·
+  <a href="https://linkedin.com/in/sohaib-arshid-008172418">LinkedIn</a> ·
+  <a href="mailto:sohaibali1277@gmail.com">Email</a>
 </p>
 
 ---
 
-### 💼 About Me
+## About Me
 
-I'm a Full Stack Developer and BS Artificial Intelligence student at the University of Haripur, working mainly on the backend with Node.js, Express, and MongoDB. I focus on building clean, scalable APIs and enjoy the process of turning a rough idea into a working, well-structured system.
+I am a **Full-Stack Developer and Backend Engineer** and a BS Artificial Intelligence student at the University of Haripur. I build complete, production-oriented web applications and work across the entire development lifecycle, including frontend interfaces, backend systems, databases, APIs, deployment, and cloud infrastructure.
 
-Currently interning as a Full Stack Developer at **Giga Developer** and serving as **Technical Lead at AWS Cloud Club, University of Haripur**, where I help other students get hands-on with cloud fundamentals.
+My strongest area is **backend engineering**. I enjoy designing clean and scalable APIs, building secure authentication and authorization systems, structuring reliable backend services, optimizing database queries, and preparing applications for production deployment. At the same time, I am comfortable building modern frontend applications with React and Next.js and integrating them with robust backend architectures.
 
----
+## Full-Stack Development
 
-### 🎯 Current Focus
+| Layer | What I Work On |
+| --- | --- |
+| **Frontend** | Responsive interfaces, reusable components, API integration, and user-focused experiences |
+| **Backend** | REST APIs, authentication, authorization, validation, business logic, real-time features, and service architecture |
+| **Databases** | Relational and NoSQL data modeling, PostgreSQL queries, indexing, relationships, aggregation, and performance optimization |
+| **DevOps & Cloud** | Docker containers, CI/CD workflows, AWS fundamentals, deployment, environment configuration, and monitoring |
 
-- Deepening my backend expertise with Node.js, Express, and MongoDB
-- Leading cloud-computing sessions and workshops for AWS Cloud Club
-- Studying core AI/ML foundations alongside applied software development
-- Building a consistent, professional open-source presence
+## Technology Stack
 
----
+### Languages
 
-### 🏆 Highlights
-
-- 🎤 **Technical Lead, AWS Cloud Club (University of Haripur)** — leading student workshops on cloud computing fundamentals
-- 💼 **Full Stack Developer Intern, Giga Developer** — contributing to production-grade MERN applications
-- 🏗️ Consistently apply clean architecture patterns (MVC, standardized API responses) across every backend I build
-- 📚 Maintain structured technical documentation and reports across multiple computer science domains
-- 🌱 Actively growing as a full stack engineer while completing a BS in Artificial Intelligence
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### 🎓 Education
-
-**BS Artificial Intelligence** — University of Haripur, Department of Information Technology *(6th Semester)*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohaib-Arshid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sohaib-Arshid&theme=tokyonight&hide_border=true" width="48%" />
+<p>
+<img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1f2937?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib-Arshid&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-1f2937?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1f2937?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
 </p>
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-1f2937?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_APIs-1f2937?style=flat-square&logo=fastapi&logoColor=009688" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-1f2937?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT" />
+  <img src="https://img.shields.io/badge/Socket.IO-1f2937?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-1f2937?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+<img src="https://img.shields.io/badge/AWS-1f2937?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-1f2937?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-1f2937?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
+</p>
+
+## Backend Specialty
+
+I focus on building backend systems that are clean, secure, and easy to maintain. My interests include API architecture, authentication and authorization, PostgreSQL database design, query optimization, data relationships, validation, error handling, background jobs, real-time communication, Docker-based development, and cloud deployment.
+
+## Current Focus
+
+- Improving advanced PostgreSQL skills, including schema design, indexing, joins, transactions, and query performance.
+
+- Building scalable full-stack applications with React, Next.js, Node.js, and Express.
+
+- Learning more about Docker, AWS, CI/CD, cloud architecture, and distributed systems.
+
+- Strengthening my foundations in artificial intelligence and machine learning.
+
+## Experience & Education
+
+* **Full-Stack Developer — Multiple Internships**
+
+* **Technical Lead — AWS Cloud Club, University of Haripur**
+
+* **BS Artificial Intelligence — University of Haripur** *(6th Semester)*
+
+
+## GitHub Statistics
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Sohaib-Arshid&theme=transparent&hide_border=true" height="165" alt="Sohaib's GitHub streak" />
+</p>
+
+## Let's Connect
+
+I am open to internships, full-stack and backend collaborations, open-source projects, and conversations about software engineering, databases, cloud computing, and AI.
+
+- **LinkedIn:** [https://linkedin.com/in/sohaib-arshid-008172418](https://linkedin.com/in/sohaib-arshid-008172418)
+
+- **Email:** [mailto:sohaibali1277@gmail.com](mailto:sohaibali1277@gmail.com)
+
+- **GitHub:** [https://github.com/Sohaib-Arshid](https://github.com/Sohaib-Arshid)
 
 ---
 
-### 🤝 Let's Connect
-
-Open to internships, collaborations, and conversations around backend development and cloud computing.
-
-**Can talk about:** Node.js & Express architecture, MongoDB schema design, JWT authentication, AWS fundamentals
-
-[LinkedIn](https://linkedin.com/in/sohaib-arshid-008172418) · [Email](mailto:sohaibali1277@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sohaib-Arshid&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
-<p align="center"><i>Last updated: July 2026</i></p>
+<p align="center"><sub>Building complete products, designing reliable backends, and learning continuously.</sub></p> <!-- Profile repository: Sohaib-Arshid/Sohaib-Arshid --> <!-- Dynamic statistics are included intentionally and may depend on third-party services. --> <!-- End of README -->
